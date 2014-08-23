@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 Sat Aug 23 2014 09:45:15 GMT-0700 (PDT):
 { [Error: Unable to locate site named shortLinker(4)]
+=======
+Fri Aug 22 2014 15:21:24 GMT-0700 (PDT):
+{ [Error: Unable to locate site named shortLinker]
+>>>>>>> pair
   stack: [Getter/Setter],
   __frame: 
    { name: 'lookupSiteNameAndWebSpace__20',
@@ -17,7 +22,11 @@ Sat Aug 23 2014 09:45:15 GMT-0700 (PDT):
      offset: 12,
      col: 4 },
   rawStack: [Getter] }
+<<<<<<< HEAD
 Error: Unable to locate site named shortLinker(4)
+=======
+Error: Unable to locate site named shortLinker
+>>>>>>> pair
     at ___ (/Users/student/.nvm/v0.10.26/lib/node_modules/azure-cli/lib/commands/asm/websites/websitesclient._js:867:20)
     at ___ (/Users/student/.nvm/v0.10.26/lib/node_modules/azure-cli/node_modules/streamline/lib/callbacks/runtime.js:85:13)
     at ___ (/Users/student/.nvm/v0.10.26/lib/node_modules/azure-cli/lib/commands/asm/websites/websitesclient._js:473:131)
